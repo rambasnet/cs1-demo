@@ -1,2 +1,3 @@
 # cs1-demo
-Class demo
+
+## Assignments
